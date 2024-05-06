@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ishratmishu](www.linkedin.com/in/ishratmishu)
 
-- 💬 Ask me about **html, css & react**
+- 💬 Ask me about **Website Development**
 
 - 📫 How to reach me **ishratjahan0425@gmail.com**
 
