@@ -1,6 +1,6 @@
 <div style="position: relative; text-align: center;">
-  <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" alt="Coding" style="width: 100%;">
-  <h3 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-weight: bold;">Ready to make waves in Web Development</h3>
+  <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" alt="Coding">
+  <h3 style="position: absolute; top: 20%; left: 30%; color: white; font-size: 24px; font-weight: bold;">Ready to make waves in Web Development</h3>
 </div>
 
 
