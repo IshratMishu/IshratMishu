@@ -9,7 +9,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 - 🌱 I’m currently learning **ReactJS & NextJS**
 
