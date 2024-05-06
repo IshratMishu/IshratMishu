@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...) (https://www.businessofapps.com/wp-content/uploads/2019/09/Clearbridge_low_coding_cover.png)
 
 <h1 align="center">Hi 👋, I'm Ishrat Mishu</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
