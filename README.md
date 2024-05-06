@@ -1,4 +1,4 @@
-<h3 align="center">Ready to make waves in Web Development</h3>________________________________________________
+<h3 align="center">______Ready to make waves in Web Development______</h3>
 
 
 <div align="center">
