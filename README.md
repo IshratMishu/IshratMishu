@@ -1,4 +1,6 @@
-<img align="center" alt="Coding" src="https://i.pinimg.com/736x/c3/9e/00/c39e00a600cac87fc02becba65361d02.jpg">
+<div align="center">
+  <img src="https://i.pinimg.com/736x/c3/9e/00/c39e00a600cac87fc02becba65361d02.jpg" alt="MasterHead">
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Ishrat Mishu</h1>
