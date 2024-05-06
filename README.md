@@ -1,6 +1,8 @@
 <h3 align="center">______Ready to Make Waves in Web Development______</h3>
 
-[![MasterHead](https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif)]
+<div align="center">
+  <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" alt="Coding">
+</div>
 
 
 
