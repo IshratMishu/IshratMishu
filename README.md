@@ -1,8 +1,9 @@
 <h3 align="center">______Ready to Make Waves in Web Development______</h3>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" alt="Coding">
+  <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" alt="Coding" style="width: 620px;">
 </div>
+
 
 
 <h1 align="center">Hi 👋, I'm Ishrat Mishu</h1>
