@@ -1,13 +1,13 @@
-<div style="position: relative; text-align: center;">
+<div align="center">
   <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" alt="Coding">
-  <h3 style="position: absolute; top: 20%; left: 30%; color: white; font-size: 24px; font-weight: bold;">Ready to make waves in Web Development</h3>
 </div>
-
 
 
 
 <h1 align="center">Hi 👋, I'm Ishrat Mishu</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+
 
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
