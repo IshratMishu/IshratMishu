@@ -1,4 +1,4 @@
-![MasterHead](https://www.businessofapps.com/wp-content/uploads/2019/09/Clearbridge_low_coding_cover.png)
+![MasterHead](https://i.ibb.co/RSbDY8T/Ready-to.png)
 
 
 <h1 align="center">Hi 👋, I'm Ishrat Mishu</h1>
