@@ -1,6 +1,5 @@
-___
-<h3 align="center">Ready to make waves in Web Development</h3>___
-
+<h3 align="center">Ready to make waves in Web Development</h3>
+________________________________________________
 
 
 <div align="center">
