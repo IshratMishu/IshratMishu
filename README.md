@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/RSbDY8T/Ready-to.png)
+![MasterHead](https://i.ibb.co/3TSwBzM/Untitled-design-1.png)
 
 
 <h1 align="center">Hi 👋, I'm Ishrat Mishu</h1>
