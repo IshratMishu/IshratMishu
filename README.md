@@ -1,4 +1,4 @@
-![MasterHead]<img align="center" alt="Coding" src="https://i.pinimg.com/736x/c3/9e/00/c39e00a600cac87fc02becba65361d02.jpg">
+![MasterHead](<img align="center" alt="Coding" src="https://i.pinimg.com/736x/c3/9e/00/c39e00a600cac87fc02becba65361d02.jpg">)
 
 
 <h1 align="center">Hi 👋, I'm Ishrat Mishu</h1>
