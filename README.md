@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/3TSwBzM/Untitled-design-1.png)
+![MasterHead](https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
 <h1 align="center">Hi 👋, I'm Ishrat Mishu</h1>
