@@ -15,15 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ishratmishu](www.linkedin.com/in/ishratmishu)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/ishratmishu](www.linkedin.com/in/ishratmishu)
-
 - 💬 Ask me about **html, css & react**
 
 - 📫 How to reach me **ishratjahan0425@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ishratmishu](www.linkedin.com/in/ishratmishu)
-
-- ⚡ Fun fact **I think i am a funny coder :D**
+- ⚡ Fun fact **Coding is Fun :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
