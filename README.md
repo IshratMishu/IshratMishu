@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Ishrat Mishu</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://linkedin.com/in/ishratmishu" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="ishratmishu"  </p>
+<p align="left"> <a href="https://linkedin.com/in/ishratmishu" target="blank"><img src="https://i.pinimg.com/564x/9f/74/68/9f7468fa70b8d44aaa9b66c348fd0d8f.jpg" alt="ishratmishu"  </p>
 
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
