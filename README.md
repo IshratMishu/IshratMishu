@@ -23,7 +23,7 @@
 
 <h1></h1>
 
-<h3 align="left">📞Connect with me:</h3>
+# 📞Connect with me:
 
 <p>
   <a href="https://linkedin.com/in/ishratmishu" target="blank">
@@ -37,9 +37,10 @@
   </a>
 </p>
 
+<h1></h1>
 
 
-<h3 align="left">🔥Skills:</h3>
+# 🔥Skills:
 
 ### Front End:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) 
@@ -67,7 +68,21 @@
 
 
 
-## 🌟 Featured Projects
+
+# 🌟 Featured Projects
+
+
+### 💎 Moice Jewelry  
+**Description**: A simple E-Commerce Website focused on a Jewelry Store. There is User Dahsboard, Seller Dashboard & Admin Dashboard. Adding product to cart, add wishlist, checkout, Payment system by Stripe.  
+**Technologies Used**:  
+![React](https://img.shields.io/badge/-React-blue?logo=react) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)  
+
+🔗 **Links**:  
+- [Live Site](https://moice-jewelry.web.app/)  
+- [Client Repository](https://github.com/IshratMishu/Jewelry-Client)  
+- [Server Repository](https://github.com/IshratMishu/Jewelry-Server)
+
+--- 
 
 ### 🏋️‍♂️ FitLife  
 **Description**: A website providing Fitness and Therapeutic Services where users can add , update and delete his own services , watch others' services , watch service details, book any specific service , and update the current status of his service and calculate BMI.  
@@ -79,17 +94,7 @@
 - [Client Repository](https://github.com/IshratMishu/FitLife-Client)  
 - [Server Repository](https://github.com/IshratMishu/FitLife-Server)  
 
----
 
-### 💎 Moice Jewelry  
-**Description**: A simple E-Commerce Website focused on a Jewelry Store. There is User Dahsboard, Seller Dashboard & Admin Dashboard. Adding product to cart, add wishlist, checkout, Payment system by Stripe.  
-**Technologies Used**:  
-![React](https://img.shields.io/badge/-React-blue?logo=react) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)  
-
-🔗 **Links**:  
-- [Live Site](https://moice-jewelry.web.app/)  
-- [Client Repository](https://github.com/IshratMishu/Jewelry-Client)  
-- [Server Repository](https://github.com/IshratMishu/Jewelry-Server)  
 
 
 
