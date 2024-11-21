@@ -50,7 +50,7 @@
 ## 🌟 Featured Projects
 
 ### 🏋️‍♂️ FitLife  
-**Description**: A website providing fitness services where users can calculate BMI, view and book services, and manage profiles.  
+**Description**: A website providing Fitness and Therapeutic Services where users can add , update and delete his own services , watch others' services , watch service details, book any specific service , and update the current status of his service and calculate BMI.  
 **Technologies Used**:  
 ![React](https://img.shields.io/badge/-React-blue?logo=react) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)  
 
@@ -59,22 +59,17 @@
 - [Client Repository](https://github.com/IshratMishu/FitLife-Client)  
 - [Server Repository](https://github.com/IshratMishu/FitLife-Server)  
 
-![Project Live Image](https://i.ibb.co.com/5vrdxqt/fitness.png)
-
 ---
 
 ### 💎 Moice Jewelry  
-**Description**: An e-commerce website for a jewelry store with features like product browsing, cart management, and checkout.  
+**Description**: A simple E-Commerce Website focused on a Jewelry Store. There is User Dahsboard, Seller Dashboard & Admin Dashboard. Adding product to cart, add wishlist, checkout, Payment system by Stripe.  
 **Technologies Used**:  
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)  
 
 🔗 **Links**:  
-- [Live Site](#)  
-- [Client Repository](https://github.com/your-username/jewelry-client)  
-- [Server Repository](https://github.com/your-username/jewelry-server)  
-
-![Luxe Jewels Screenshot](https://via.placeholder.com/500x300)
-
+- [Live Site](https://moice-jewelry.web.app/)  
+- [Client Repository](https://github.com/IshratMishu/Jewelry-Client)  
+- [Server Repository](https://github.com/IshratMishu/Jewelry-Server)  
 
 
 
