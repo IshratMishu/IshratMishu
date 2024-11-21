@@ -90,7 +90,7 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=ishratmishu)
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+<div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishratmishu&layout=compact&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=ishratmishu&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" />
 </div>
