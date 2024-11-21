@@ -13,11 +13,13 @@
 
 - 🌱 I’m currently learning **ReactJS & NextJS**
 
-- 👨‍💻 You can connect with me here [www.linkedin.com/in/ishratmishu](www.linkedin.com/in/ishratmishu)
+- ⚡ Available for remote opportunities.
 
-- 📫 Reach me **ishratjahan0425@gmail.com**
+- 👨‍💻 Let’s network on [LinkedIn](www.linkedin.com/in/ishratmishu)
 
-- ⚡ [My Portfolio](https://portfolio-of-ishrat-jahan-mishu.surge.sh/)
+- 📫 Feel free to ping me at **ishratjahan0425@gmail.com**
+
+- 🚀 [My Portfolio](https://portfolio-of-ishrat-jahan-mishu.surge.sh/)
 
 <h1></h1>
 
