@@ -4,11 +4,9 @@
   <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" alt="Coding" style="width: 900px; height: 350px;">
 </div>
 
-
-
 <h1 align="center">Hi 👋, I'm Ishrat Mishu</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<br>
+
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 - 🌱 I’m currently learning **ReactJS & NextJS**.
@@ -30,7 +28,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ishrat._.mishu/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/<+8801640724013>)
 
-<br>
 <br>
 
 # 🔥Skills:
