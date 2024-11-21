@@ -87,7 +87,6 @@
 
 
 
-
-
-<h1></h1>
+---
+![Profile Views](https://komarev.com/ghpvc/?username=ishratmishu)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishratmishu&show_icons=true&locale=en&layout=compact" alt="ishratmishu" /></p>
