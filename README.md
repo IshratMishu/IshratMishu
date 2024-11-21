@@ -34,7 +34,7 @@
 
 <h3 align="left">🔥Skills:</h3>
 
-### Front End Skills:
+### Front End:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
@@ -42,16 +42,22 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
+### Back End:
+![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
 
-<br>
-<h3 align="left">Back End Skills:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:813/1*dc5_4RK3UQ3aJat6skrnXA.jpeg" alt="JSON web tokens" width="100" height="40"/> </a> </p>
-<br>
-<h3 align="left">Database Skills:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
-<br>
-<h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1280px-Netlify_logo.svg.png" alt="netlify" width="100" height="40"/> </a> <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="vercel" width="100" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:723/1*vIQIILVkp48MzotGFO_4Yw.png" alt="visual studio code" width="100" height="40"/> </a> </p>
+### Database:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### Tools:
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![Surge](https://img.shields.io/badge/-Surge-1A1A1A?logo=surge&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+
 
 
 ## 🌟 Featured Projects
