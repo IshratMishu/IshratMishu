@@ -13,17 +13,15 @@
 
 - 🌱 I’m currently learning **ReactJS & NextJS**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ishratmishu](www.linkedin.com/in/ishratmishu)
+- 👨‍💻 You can connect with me here [www.linkedin.com/in/ishratmishu](www.linkedin.com/in/ishratmishu)
 
-- 💬 Ask me about **Website Development**
+- 📫 Reach me **ishratjahan0425@gmail.com**
 
-- 📫 How to reach me **ishratjahan0425@gmail.com**
-
-- ⚡ Fun fact **Coding is Fun :D**
+- ⚡ [My Portfolio](https://portfolio-of-ishrat-jahan-mishu.surge.sh/)
 
 <h1></h1>
 
-<p>📞Connect with me:</p>
+### 📞Connect with me:
 
 <p>
   <a href="https://linkedin.com/in/ishratmishu" target="blank">
@@ -38,7 +36,6 @@
 </p>
 
 <h1></h1>
-<br>
 <br>
 <br>
 
@@ -68,7 +65,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-<br>
 <br>
 <br>
 
