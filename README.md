@@ -46,5 +46,37 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1280px-Netlify_logo.svg.png" alt="netlify" width="100" height="40"/> </a> <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="vercel" width="100" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:723/1*vIQIILVkp48MzotGFO_4Yw.png" alt="visual studio code" width="100" height="40"/> </a> </p>
 
+
+## 🌟 Featured Projects
+
+### 🏋️‍♂️ FitLife  
+**Description**: A website providing fitness services where users can calculate BMI, view and book services, and manage profiles.  
+**Technologies Used**:  
+![React](https://img.shields.io/badge/-React-blue?logo=react) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)  
+
+🔗 **Links**:  
+- [Live Site](https://fitlife-webapp.web.app/)  
+- [Client Repository](https://github.com/IshratMishu/FitLife-Client)  
+- [Server Repository](https://github.com/IshratMishu/FitLife-Server)  
+
+![Project Live Image](https://i.ibb.co.com/5vrdxqt/fitness.png)
+
+---
+
+### 💎 Moice Jewelry  
+**Description**: An e-commerce website for a jewelry store with features like product browsing, cart management, and checkout.  
+**Technologies Used**:  
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)  
+
+🔗 **Links**:  
+- [Live Site](#)  
+- [Client Repository](https://github.com/your-username/jewelry-client)  
+- [Server Repository](https://github.com/your-username/jewelry-server)  
+
+![Luxe Jewels Screenshot](https://via.placeholder.com/500x300)
+
+
+
+
 <h1></h1>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishratmishu&show_icons=true&locale=en&layout=compact" alt="ishratmishu" /></p>
