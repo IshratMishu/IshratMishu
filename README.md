@@ -64,7 +64,7 @@
 ### 💎 Moice Jewelry  
 **Description**: A simple E-Commerce Website focused on a Jewelry Store. There is User Dahsboard, Seller Dashboard & Admin Dashboard. Adding product to cart, add wishlist, checkout, Payment system by Stripe.  
 **Technologies Used**:  
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)  
+![React](https://img.shields.io/badge/-React-blue?logo=react) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)  
 
 🔗 **Links**:  
 - [Live Site](https://moice-jewelry.web.app/)  
