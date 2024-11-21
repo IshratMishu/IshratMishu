@@ -34,13 +34,14 @@
 
 <h3 align="left">🔥Skills:</h3>
 
-<h3 align="left">Front End Skills:</h3>
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white)
+### Front End Skills:
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+
 
 <br>
 <h3 align="left">Back End Skills:</h3>
