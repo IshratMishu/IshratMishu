@@ -11,9 +11,9 @@
 
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
-- 🌱 I’m currently learning **ReactJS & NextJS**
+- 🌱 I’m currently learning **ReactJS & NextJS**.
 
-- ⚡ Available for remote opportunities.
+- ⚡ Available for **Remote Opportunities**.
 
 - 👨‍💻 Let’s network on [LinkedIn](www.linkedin.com/in/ishratmishu)
 
@@ -25,19 +25,11 @@
 
 ### 📞Connect with me:
 
-<p>
-  <a href="https://linkedin.com/in/ishratmishu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishratmishu" height="30" width="40" />
-  </a>   
-  <a href="https://www.instagram.com/ishrat._.mishu/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="ishrat._.mishu" height="30" width="30" />
-  </a>
-   <a href="https://fb.com/ishratjahan.mishu.33" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishratjahan.mishu.33" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishratmishu/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/ishratjahan.mishu.33)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ishrat._.mishu/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/<+8801640724013>)
 
-<h1></h1>
 <br>
 <br>
 
