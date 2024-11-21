@@ -23,7 +23,7 @@
 
 <h1></h1>
 
-# 📞Connect with me:
+<p>📞Connect with me:</p>
 
 <p>
   <a href="https://linkedin.com/in/ishratmishu" target="blank">
@@ -38,7 +38,9 @@
 </p>
 
 <h1></h1>
-
+<br>
+<br>
+<br>
 
 # 🔥Skills:
 
@@ -66,7 +68,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-
+<br>
+<br>
+<br>
 
 
 # 🌟 Featured Projects
