@@ -28,7 +28,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/ishratmishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishratmishu" height="30" width="40" /></a>
 <a href="https://fb.com/ishratjahan.mishu.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishratjahan.mishu.33" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ishrat._.mishu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishrat._.mishu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ishrat._.mishu/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="ishrat._.mishu" height="30" width="30" />
+</a>
 </p>
 
 <h1></h1>
