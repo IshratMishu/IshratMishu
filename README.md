@@ -27,6 +27,8 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/ishratjahan.mishu.33)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ishrat._.mishu/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/<+8801640724013>)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/ishratmishu)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-E60023?logo=pinterest&logoColor=white)](https://www.pinterest.com/zyishrat/)
 
 <br>
 
