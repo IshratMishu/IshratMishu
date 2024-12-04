@@ -77,6 +77,17 @@
 
 --- 
 
+### 💰 CryptoTracker  
+**Description**: A Crypto Tracker Web App using Next.js & Tailwind CSS. It shows details regarding almost all cryptocurrencies. You can easily convert the price in your local currency.  
+**Technologies Used**:  
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss) !
+
+🔗 **Links**:  
+- [Live Site](https://crypto-tracker-ten-taupe.vercel.app/)  
+- [Repository](https://github.com/IshratMishu/crypto-tracker-web-app)  
+
+--- 
+
 ### 🏋️‍♂️ FitLife  
 **Description**: A website providing Fitness and Therapeutic Services where users can add , update and delete his own services , watch others' services , watch service details, book any specific service , and update the current status of his service and calculate BMI.  
 **Technologies Used**:  
